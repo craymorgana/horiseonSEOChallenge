@@ -2,9 +2,7 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- This project is optimize the source code of the provided web page. The code was missing semantics, several tags, and independent styling attributes.
+This project is optimize the source code of the provided web page. The code was missing semantics, several tags, and independent styling attributes.
 
 ## Installation
 
