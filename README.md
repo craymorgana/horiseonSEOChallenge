@@ -1,4 +1,4 @@
-# <Horiseon SEO Optimization>
+# Horiseon SEO Optimization>
 
 ## Description
 
