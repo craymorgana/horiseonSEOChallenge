@@ -6,7 +6,6 @@ Provide a short description explaining the what, why, and how of your project. U
 
 - This project is optimize the source code of the provided web page. The code was missing semantics, several tags, and independent styling attributes.
 
-
 ## Installation
 
 N/A
