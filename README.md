@@ -4,19 +4,7 @@
 
 This project is optimize the source code of the provided web page. The code was missing semantics, several tags, and independent styling attributes.
 
-## Installation
-
-N/A
-
-## Usage
-
-N/A
-
-## Credits
-
-N/A
-
-## License
+![demo](./screenshot.png)
 
 MIT License
 
@@ -40,18 +28,3 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-## Badges
-
-N/A
-
-## Features
-
-N/A
-
-## How to Contribute
-
-N/A
-
-## Tests
-
-N/A
